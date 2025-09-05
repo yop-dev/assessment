@@ -51,13 +51,20 @@ npm run lint
 npm run type-check
 ```
 
-## 🤖 AI Tools Used
+## 🤖 AI Usage Log
 
 ### Primary Tools
 
-- **WARP (Claude Sonnet)** - Main development assistant for code generation, debugging, and architectural decisions
+- **WARP (Claude Sonnet - Opus too expensive)** - Main development assistant for code generation, debugging, and architectural decisions
 - **FIGMA MCP** - For extracting design specifications and assets from Figma files
 - **ChatGPT** - Additional support for specific implementation details
+
+  
+### AI-Code Fixed
+
+- I just let AI fix the errors it gave
+- I sometimes manually adjust the width and height of the cards
+
 
 ### Key Prompts Used
 
