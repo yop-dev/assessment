@@ -134,8 +134,6 @@ Here is the figma link you can follow: [Figma URL]
 
 - **Implement Missing Pages**: Complete steps 3 (Target Audience) and 4 (Review & Launch)
 - **Form Validation**: Add comprehensive form validation and error handling
-- **File Upload Logic**: Implement actual file processing and validation
-- **API Integration**: Connect to backend services for data persistence
 
 ### Visual Enhancements
 
